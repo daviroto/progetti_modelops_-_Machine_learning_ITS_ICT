@@ -6,7 +6,11 @@ Il codice segue lo schema `f1,f2,label`, il classificatore a soglia media su `f1
 
 ## Comandi PowerShell
 
-Eseguire dalla cartella del progetto. Serve Python 3.14; non sono richiesti pacchetti esterni.
+Dalla root del repository, entrare nella cartella del progetto; poi eseguire i comandi successivi da lì. Serve Python 3.14; non sono richiesti pacchetti esterni.
+
+```powershell
+Set-Location "Lab 01"
+```
 
 ```powershell
 py -3.14 --version
