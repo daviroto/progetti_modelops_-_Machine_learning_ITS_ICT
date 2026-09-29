@@ -1,4 +1,4 @@
-# Lab 01 - Soluzione adattata al docente
+# Lab 01 
 
 ## Dataset e limiti
 
